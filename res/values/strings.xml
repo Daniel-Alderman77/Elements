@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Elements</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_element_view">ElementView</string>
+    <string name="tempK">Temperature in K</string>
+    <string name="tempC">Temperature in °C</string>
+    <string name="enterTemp">Enter a temperature:</string>
+    <string name="selectE">Select an Element:</string>
+    <string name="kOrC">K or °C</string>
+    <string name="celsius">°C</string>
+    <string name="kelvin">K</string>
+    <string name="view">View</string>
+    <string name="elementN">Element Name</string>
+    <string name="state">State at this temperature:</string>
+    <string name="back">Back</string>
+    <string name="accessibility">A picture of the Element</string>
+    <string-array name="elemArray">
+        <item >Aluminium</item>
+        <item >Carbon</item>
+        <item >Copper</item>
+        <item >Iron</item>
+        <item >Sulfur</item>
+    </string-array>
+
+</resources>
